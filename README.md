@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!</h1>
 
-<h3 align="center">Sou a Porra do Ranier e esse é meu repositório:</h3>
+<h3 align="center">Sou o Ranier, O estudante do curso de Desenvolvimento de Jogos do BG</h3>
 
 <br>
 
