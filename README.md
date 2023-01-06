@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!</h1>
 
-<h3 align="center">My name is Ranier and I am a student of Game Development in ETEC Basilides de Godoy</h3>
+<h3 align="center">Sou a Porra do Ranier e esse é meu repositório:</h3>
 
 <br>
 
