@@ -63,10 +63,6 @@ I am a developer focused on the **SAP ecosystem**, working both as a consultant 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RanierDC&layout=compact&theme=tokyonight&langs_count=8" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RanierCouto&theme=tokyo-night&area=true" />
-</div>
-
 ---
 
 <div align="center">
